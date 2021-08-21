@@ -1,0 +1,2 @@
+# practicasG
+ practicas de pyhton
